@@ -50,7 +50,7 @@
 
 .bg-img1 {
     height: 600px;
-    background-image: url("юю/img/IMAGE1.png");
+    background-image: url("../img/IMAGE1.png");
     background-size: cover;
     background-position: center;
 
